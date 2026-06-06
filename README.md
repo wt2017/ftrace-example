@@ -1,4 +1,4 @@
-# ftrace-example
+# count realtime clock by ftrace
 
 Kernel module that registers an ftrace callback on the `__x64_sys_clock_gettime` syscall.
 

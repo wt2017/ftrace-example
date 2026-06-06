@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.13)
-project(ftrace-example C)
+project(count-realtime-clock-by-ftrace C)
 
 # ─────────────────────────────────────────────────────────────
 # Out-of-tree kernel module build via cmake

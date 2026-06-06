@@ -15,7 +15,7 @@
 #include <linux/time.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("ftrace-example");
+MODULE_AUTHOR("count realtime clock by ftrace");
 MODULE_DESCRIPTION("ftrace callback counting CLOCK_REALTIME calls");
 
 /* ------------------------------------------------------------------ */
